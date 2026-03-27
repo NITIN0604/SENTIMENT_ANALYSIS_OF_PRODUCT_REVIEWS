@@ -1,6 +1,4 @@
-# SENTIMENT_ANALYSIS_OF_PRODUCT_REVIEWS
-
-# 🛍️ Product Review Sentiment Analysis using Machine Learning and Natural Language Processing
+# 🛍️ Product Review Sentiment Analysis using ML and NLP
 ## 📘 Overview
 
 This project focuses on analyzing customer product reviews to determine sentiment — Positive, Neutral, or Negative — using Natural Language Processing (NLP) and Machine Learning techniques.

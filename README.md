@@ -5,6 +5,8 @@ This project focuses on analyzing customer product reviews to determine sentimen
 
 The goal is to transform unstructured textual feedback into meaningful insights that help businesses improve products, enhance customer experience, and make data-driven decisions.
 
+---
+
 ## 🎯 Objectives
 - Analyze customer reviews from e-commerce platforms
 - Perform text preprocessing and feature engineering
@@ -12,12 +14,13 @@ The goal is to transform unstructured textual feedback into meaningful insights 
 - Classify sentiment into Positive, Neutral, and Negative
 - Generate actionable insights from customer feedback
 
+---
 
 ## 🧠 Dataset
-Dataset Name: Product Review Dataset
-Source: E-commerce platforms (Amazon / etc.)
-Features: Text reviews + metadata
-Target Variable: Sentiment Label (Positive / Neutral / Negative)
+**Dataset Name:** Product Review Dataset
+**File:** Amazon Product Review.txt
+**Features:** Text reviews + metadata
+**Target Variable:** Sentiment Label (Positive / Neutral / Negative)
 
 ## Key Attributes
 - Review Text
@@ -53,3 +56,11 @@ Target Variable: Sentiment Label (Positive / Neutral / Negative)
 - SVM classification
 - LightGBM 
 - ExtraTree classification
+
+### 5. Hyperparameter Tuning
+
+**Used GridSearchCV for optimization:**
+
+Logistic Regression → C, solver
+Naive Bayes → alpha
+Random Forest → n_estimators, max_depth

@@ -105,10 +105,10 @@ This system automates sentiment classification to:
 
 | Model                   | Best Parameters                | Accuracy | Precision | Recall | F1-Score |
 | ----------------------- | ------------------------------ | -------- | --------- | ------ | -------- |
-| **Logistic Regression** | C=1, solver=lbfgs              | **89%**  | 88%       | 89%    | **Best** |
-| **LinearSVM**           | n_estimators=200, max_depth=20 | 87%      | 86%       | 87%    | High     |
-| **Naive Bayes**         | alpha=1.0                      | 85%      | 84%       | 85%    | Moderate |
-| **LightGBM**            | alpha=1.0                      | 85%      | 84%       | 85%    | Moderate |
+| **Logistic Regression** | C=1, solver=lbfgs              | **88%**  | 88%       | 89%    | **Best** |
+| **SVM**                 | n_estimators=200, max_depth=20 | 88%      | 86%       | 87%    | High     |
+| **Naive Bayes**         | alpha=1.0                      | 88%      | 84%       | 85%    | Moderate |
+| **LightGBM**            | alpha=1.0                      | 82%      | 84%       | 85%    | Moderate |
 
 **🏆 Best Model:** Logistic Regression
 
@@ -182,7 +182,8 @@ WordCloud visualization
 ---
 
 ## 👨‍💻 Author
-R. Nitin
+### R. Nitin
+
 📧 **Email**: rnitin0604@gmail.com
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/nitin0604/

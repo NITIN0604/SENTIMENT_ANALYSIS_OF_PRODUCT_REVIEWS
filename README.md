@@ -103,12 +103,12 @@ This system automates sentiment classification to:
 
 ## 📊 Model Performance Summary
 
-| Model                   | Best Parameters                | Accuracy | Precision | Recall | F1-Score |
-| ----------------------- | ------------------------------ | -------- | --------- | ------ | -------- |
-| **Logistic Regression** | C=1, solver=lbfgs              | **88%**  | 88%       | 89%    | **Best** |
-| **SVM**                 | n_estimators=200, max_depth=20 | 88%      | 86%       | 87%    | High     |
-| **Naive Bayes**         | alpha=1.0                      | 88%      | 84%       | 85%    | Moderate |
-| **LightGBM**            | alpha=1.0                      | 82%      | 84%       | 85%    | Moderate |
+| Model                   | Accuracy | Precision | Recall | F1-Score |
+| ----------------------- | -------- | --------- | ------ | -------- |
+| **Logistic Regression** | **88%**  | 89%       | 88%    | **Best** |
+| **SVM**                 | 88%      | 88%       | 88%    | High     |
+| **Naive Bayes**         | 88%      | 86%       | 88%    | Moderate |
+| **LightGBM**            | 82%      | 84%       | 87%    | Moderate |
 
 **🏆 Best Model:** Logistic Regression
 

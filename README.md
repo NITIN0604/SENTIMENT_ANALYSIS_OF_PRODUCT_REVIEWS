@@ -28,11 +28,17 @@ This system automates sentiment classification to:
 ## 🚀 Key Features
 
 ✔ End-to-End ML Pipeline
+
 ✔ Custom Text Cleaning (TextCleaner)
+
 ✔ TF-IDF with N-grams
+
 ✔ Hyperparameter Tuning (GridSearchCV)
+
 ✔ Model Comparison Dashboard
+
 ✔ Streamlit Interactive UI
+
 ✔ WordCloud Visualization
 
 ---
@@ -106,6 +112,7 @@ This system automates sentiment classification to:
 
 **🏆 Best Model:** Logistic Regression
 
+---
 
 ## 📈 Sample Predictions
 
@@ -115,6 +122,7 @@ This system automates sentiment classification to:
 | "It's okay, nothing special."        | Neutral 😐          |
 | "Very bad quality, waste of money."  | Negative ❌          |
 
+---
 
 ## 💻 Streamlit UI
 
@@ -125,6 +133,8 @@ Text input for review
 Instant prediction
 WordCloud visualization
 
+---
+
 ## 💡 Key Insights
 
 - Most reviews tend to be **positive**, indicating overall customer satisfaction
@@ -132,6 +142,7 @@ WordCloud visualization
 - TF-IDF + Logistic Regression works best for text classification
 - Short reviews are harder to classify compared to detailed reviews
 
+---
 
 ## ⚠️ Limitations
 
@@ -139,6 +150,7 @@ WordCloud visualization
 - Sarcasm and context are difficult to detect
 - Limited dataset may affect generalization
 
+---
 
 ## 🚀 Future Enhancements
 
@@ -146,6 +158,7 @@ WordCloud visualization
 - Perform **Aspect-Based Sentiment Analysis**
 - Add **real-time review scraping**
 
+---
 
 ## 🧩 Tools & Technologies
 
@@ -155,20 +168,26 @@ WordCloud visualization
 - **Frontend:** Streamlit
 - **Environment:** Jupyter Notebook / VS Code
 
-\
+---
+
 ## 🌐 Deployment
 
 - Interactive UI using **Streamlit**
 - Real-time sentiment prediction system
 
+---
 
 ## 📅 Project Completion Date: MAR 2026
+
+---
 
 ## 👨‍💻 Author
 R. Nitin
 📧 **Email**: rnitin0604@gmail.com
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/nitin0604/
+
+---
 
 ## 🩹 License
 

@@ -5,8 +5,6 @@ This project focuses on analyzing customer product reviews to determine sentimen
 
 The goal is to transform unstructured textual feedback into meaningful insights that help businesses improve products, enhance customer experience, and make data-driven decisions.
 
----
-
 ## 🎯 Objectives
 - Analyze customer reviews from e-commerce platforms
 - Perform text preprocessing and feature engineering
@@ -18,8 +16,11 @@ The goal is to transform unstructured textual feedback into meaningful insights 
 
 ## 🧠 Dataset
 **Dataset Name:** Product Review Dataset
+
 **File:** Amazon Product Review.txt
+
 **Features:** Text reviews + metadata
+
 **Target Variable:** Sentiment Label (Positive / Neutral / Negative)
 
 ## Key Attributes
